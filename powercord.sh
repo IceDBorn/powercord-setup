@@ -21,6 +21,7 @@ git clone https://github.com/tuanbinhtran/voice-user-count.git
 git clone https://github.com/Killerjet101/open-in-app.git
 git clone https://github.com/VenPlugs/Unindent.git
 git clone https://github.com/hyblocker/discord-theme-helper.git
+https://github.com/TaiAurori/mtega.git
 
 cd ../themes
 
